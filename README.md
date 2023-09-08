@@ -56,8 +56,8 @@ In order to handle the list of contacts, the outputed json file has to be proces
 
 The json file can be processed by a logic app, however there is no simple way to handle processing elements where the schema contains an object or an array for the same element.
 
-A possible solution can be found at [Dynamically Parse JSON as object or Array](https://powerusers.microsoft.com/t5/General-Power-Automate/Dynamically-Parse-JSON-as-object-or-Array/td-p/1212427) where the question was answered and solution proposed.
+A possible solution can be found at [Dynamically Parse JSON as object or Array](https://powerusers.microsoft.com/t5/General-Power-Automate/Dynamically-Parse-JSON-as-object-or-Array/td-p/1212427) where the question was answered and a solution proposed.
 
-Creating a logic app to process these records is not complicated, the following pages is a walkthrough on how this can be done.
+Creating a logic app to process these records is not complicated, the following page is a walkthrough on how this can be done.
 
 [Logic App Setup](logicapp01.md)
