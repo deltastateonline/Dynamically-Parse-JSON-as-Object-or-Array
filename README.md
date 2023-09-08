@@ -1,4 +1,3 @@
-# Dynamically Parse JSON as Object or Array
 ## Walkthrough on how to dynamically parse JSON as object or array in logic apps
 
 While working as a consultant for an integration consultancy, we had a client who wanted to be able to ingest the client list data set from WorkflowMax into SQL.
